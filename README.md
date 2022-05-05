@@ -1,3 +1,3 @@
 # API Rest Bankline
 
-Aplicação (em desenvolvimento) em Java, utilizando Spring Boot, que imprime e lista saldo e movimentações da conta de um usuário, construída durante o bootcamp Santander Dev Week.
+API Rest em Java, utilizando Spring Boot, que lista saldo e movimentações da conta de um usuário cadastrado, construída durante o bootcamp Santander Dev Week.
